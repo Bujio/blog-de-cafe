@@ -9,3 +9,5 @@ This project has been created using HTML and CSS with the goal of learning how t
 Furthermore, a responsive design has been implemented to ensure a consistent user experience across different devices and screen sizes.
 
 Welcome to the Coffee Blog, where the love of coffee meets web development!
+
+![image](https://github.com/Bujio/blog-de-cafe/assets/79529756/bc9d26ea-5124-4a95-92a3-6e747fe6e28a)
